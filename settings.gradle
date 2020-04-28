@@ -1,0 +1,2 @@
+include ':app', ':base-libs'
+rootProject.name='E-Shop'
